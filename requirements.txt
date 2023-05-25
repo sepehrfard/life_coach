@@ -1,4 +1,6 @@
 openai
 speechrecognition
-pyttsx3
 python-dotenv
+Cython
+playsound
+gTTS

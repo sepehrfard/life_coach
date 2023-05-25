@@ -7,7 +7,8 @@ setup(
     install_requires=[
         'openai',
         'speechrecognition',
-        'pyttsx3',
+        'gTTS',
+        'playsound',
         'python-dotenv'
     ],
 )

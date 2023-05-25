@@ -1,6 +1,8 @@
 from modules.speech_to_text import speech_to_text
 from modules.text_to_speech import text_to_speech
 from modules.gpt_interaction import get_response
+from dotenv import load_dotenv
+load_dotenv()
 
 def main():
     while True:
